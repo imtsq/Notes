@@ -4,47 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "617842c189b9c717",
-        "type": "tabs",
-        "dimension": 70.19386106623587,
-        "children": [
-          {
-            "id": "a664a3eee9b033e4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "公务员/判断推理/逻辑判断/组合排列.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "组合排列 的大纲"
-            }
-          },
-          {
-            "id": "d865104f232d7f66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公务员/判断推理/逻辑判断/组合排列.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "组合排列"
-            },
-            "group": "53d31d37b21b886d"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "a9ed25bbd3f0dad2",
         "type": "tabs",
-        "dimension": 29.806138933764135,
+        "dimension": 76.09046849757674,
         "children": [
           {
             "id": "fa3d6bd8772ac401",
@@ -59,8 +21,46 @@
               },
               "icon": "lucide-list",
               "title": "组合排列 的大纲"
+            }
+          },
+          {
+            "id": "45f2e6bd29d8da76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公务员/判断推理/逻辑判断/组合排列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "组合排列"
             },
-            "group": "53d31d37b21b886d"
+            "group": "c0ed3291a14c5c46"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "68b033d076a4337d",
+        "type": "tabs",
+        "dimension": 23.909531502423263,
+        "children": [
+          {
+            "id": "38fbb39263ded19d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "公务员/判断推理/逻辑判断/组合排列.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "组合排列 的大纲"
+            },
+            "group": "c0ed3291a14c5c46"
           }
         ]
       }
@@ -224,26 +224,32 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d865104f232d7f66",
+  "active": "45f2e6bd29d8da76",
   "lastOpenFiles": [
+    "随笔/感想/重启人生.md",
+    "公务员/判断推理/逻辑判断/组合排列.md",
+    "公务员/判断推理/逻辑判断.xmind",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523215353.png",
+    "images/Pasted image 20260523194311.png.md",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523222500.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523194038.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523184803.png",
+    "公务员/判断推理/逻辑判断/未命名.canvas",
+    "公务员/判断推理/逻辑判断/未命名.md",
+    "images",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523194311.png",
+    "随笔/感想/images/Pasted image 20260523193208.png",
+    "事业编/法律/总书记.md",
+    "事业编/法律/各种数字.md",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523184757.png",
+    "最小假设法步骤.md",
+    "文档名.md",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523172125.png",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523171409.png",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523165126.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523162555.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523162212.png",
-    "公务员/判断推理/逻辑判断/images/组合排列/Pasted image 20260523142109.png",
     "公务员/判断推理/逻辑判断/images/组合排列",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523142109.png",
-    "公务员/判断推理/逻辑判断/组合排列.md",
     "公务员/判断推理/逻辑判断/录音.m4a",
-    "文档名.md",
-    "最小假设法步骤.md",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523125540.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523122254.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523121338.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523121326.png",
     "公务员/判断推理/逻辑判断/images",
-    "images",
     "README.md",
     "公务员/判断推理/逻辑判断/1.md",
     "测试/1.md",
@@ -255,11 +261,8 @@
     "公务员/判断推理/逻辑判断",
     "公务员/数量/1.倍数特性.md",
     "快速上传.bat - 快捷方式.lnk",
-    "公务员/判断推理/逻辑判断",
-    "未命名.md",
     "公务员/言语/片段阅读/中心理解/1.转折.md",
     "1.mind.md",
-    "随笔/感想/重启人生.md",
     "未命名 1.canvas",
     "随笔/生活方式/资金分配.md",
     "随笔/修身/成功学 1.md",
