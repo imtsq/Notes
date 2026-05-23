@@ -4,77 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a8c9f335e1c0161a",
+        "id": "3978d9c8c143da62",
         "type": "tabs",
-        "dimension": 78.59450726978999,
         "children": [
           {
-            "id": "51a004fb7b590269",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "公务员/判断推理/逻辑判断/组合排列.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "组合排列 的大纲"
-            }
-          },
-          {
-            "id": "84a6cffc25f0c4ed",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "公务员/判断推理/逻辑判断/images/Pasted image 20260523112446.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260523112446"
-            },
-            "group": "5d6eb31d4f15be11"
-          },
-          {
-            "id": "c9670b18349f1d64",
+            "id": "1e3d2b372f6d26df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公务员/判断推理/逻辑判断/组合排列.md",
+                "file": "测试/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "组合排列"
+              "title": "1"
+            }
+          },
+          {
+            "id": "bf4fd3bfbc62ef28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "5d01cd8b4ab16cdd",
-        "type": "tabs",
-        "dimension": 21.405492730210014,
-        "children": [
-          {
-            "id": "ca6aa5be74d75a33",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "公务员/判断推理/逻辑判断/images/Pasted image 20260523112446.png",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Pasted image 20260523112446 的大纲"
-            },
-            "group": "5d6eb31d4f15be11"
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公务员/判断推理/逻辑判断/组合排列.md",
+                "file": "测试/1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "组合排列 的反向链接列表"
+              "title": "1 的反向链接列表"
             }
           },
           {
@@ -236,18 +198,24 @@
       "bases:新建数据库": false
     }
   },
-  "active": "76591de5494c80bd",
+  "active": "bf4fd3bfbc62ef28",
   "lastOpenFiles": [
+    "测试/1.md",
+    "测试/images/Pasted image 20260523115320.png",
+    "测试/images",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523115020.png",
+    "公务员/判断推理/逻辑判断/1.md",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523114828.png",
+    "公务员/判断推理/逻辑判断/组合排列.md",
+    "Pasted image 20260523113912.png",
     "测试",
     "公务员/判断推理/逻辑判断/images/组合排列/Pasted image 20260523112738.png",
     "公务员/判断推理/逻辑判断/images/组合排列",
-    "Pasted image 20260523113912.png",
     "公务员/判断推理/images",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523113538.png",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523112738.png",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523112446.png",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523111731.png",
-    "公务员/判断推理/逻辑判断/组合排列.md",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523112428.png",
     "公务员/判断推理/逻辑判断/images",
     "未命名.canvas",
@@ -262,8 +230,6 @@
     "1.mind.md",
     "随笔/感想/重启人生.md",
     "1.mind",
-    "未命名.base",
-    "事业编/非法/科技/2025.07.10+理论攻坚-科技3+莫晓霏（讲义+笔记）（【四川新大纲】2025事业单位系统班图书大礼包：公共基础知识+综合能力测试4期）.pdf",
     "未命名 1.canvas",
     "随笔/生活方式/资金分配.md",
     "README.md",

@@ -3,7 +3,7 @@
   "attachmentFolderPath": "./images",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "newFileLocation": "current"
+  "newFileLocation": "root"
 }
