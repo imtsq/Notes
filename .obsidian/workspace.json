@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "046a8a04731e0762",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8c9f335e1c0161a",
+        "type": "tabs",
+        "dimension": 78.59450726978999,
+        "children": [
+          {
+            "id": "51a004fb7b590269",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "公务员/判断推理/逻辑判断/组合排列.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "组合排列 的大纲"
+            }
+          },
+          {
+            "id": "84a6cffc25f0c4ed",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "公务员/判断推理/逻辑判断/images/Pasted image 20260523112446.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260523112446"
+            },
+            "group": "5d6eb31d4f15be11"
+          },
+          {
+            "id": "c9670b18349f1d64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公务员/判断推理/逻辑判断/组合排列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "组合排列"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5d01cd8b4ab16cdd",
+        "type": "tabs",
+        "dimension": 21.405492730210014,
+        "children": [
+          {
+            "id": "ca6aa5be74d75a33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "公务员/判断推理/逻辑判断/images/Pasted image 20260523112446.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Pasted image 20260523112446 的大纲"
+            },
+            "group": "5d6eb31d4f15be11"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95fab95baa3505a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2bfb6d408b7b77d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76591de5494c80bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ef7ec5059a2df58c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5587928a39936ac1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "4b432d101a3ee13c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f6358d4206b7904",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4181b5e5c15b9a0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "公务员/判断推理/逻辑判断/组合排列.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "组合排列 的反向链接列表"
+            }
+          },
+          {
+            "id": "d1afc6b060ca2645",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "公务员/言语/片段阅读/中心理解/1.转折.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1.转折 的出链列表"
+            }
+          },
+          {
+            "id": "438c455c9064e5f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3c7b6fb53f6417d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "42418febcb59b653",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "公务员/言语/片段阅读/中心理解/1.转折.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1.转折 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "76591de5494c80bd",
+  "lastOpenFiles": [
+    "测试",
+    "公务员/判断推理/逻辑判断/images/组合排列/Pasted image 20260523112738.png",
+    "公务员/判断推理/逻辑判断/images/组合排列",
+    "Pasted image 20260523113912.png",
+    "公务员/判断推理/images",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523113538.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523112738.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523112446.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523111731.png",
+    "公务员/判断推理/逻辑判断/组合排列.md",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523112428.png",
+    "公务员/判断推理/逻辑判断/images",
+    "未命名.canvas",
+    "公务员/判断推理/逻辑判断.md",
+    "公务员/判断推理/逻辑判断",
+    "公务员/数量/1.倍数特性.md",
+    "快速上传.bat - 快捷方式.lnk",
+    "公务员/判断推理/逻辑判断",
+    "公务员/判断推理/图推/判断推理 +精讲精练1.pdf",
+    "未命名.md",
+    "公务员/言语/片段阅读/中心理解/1.转折.md",
+    "1.mind.md",
+    "随笔/感想/重启人生.md",
+    "1.mind",
+    "未命名.base",
+    "事业编/非法/科技/2025.07.10+理论攻坚-科技3+莫晓霏（讲义+笔记）（【四川新大纲】2025事业单位系统班图书大礼包：公共基础知识+综合能力测试4期）.pdf",
+    "未命名 1.canvas",
+    "随笔/生活方式/资金分配.md",
+    "README.md",
+    "随笔/修身/成功学 1.md",
+    "随笔/感想/终日思不如须臾实践 (1).md"
+  ]
+}
