@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e3d2b372f6d26df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "测试/1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1"
-            }
-          },
-          {
             "id": "bf4fd3bfbc62ef28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "公务员/判断推理/逻辑判断/组合排列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "组合排列"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,13 +185,18 @@
   },
   "active": "bf4fd3bfbc62ef28",
   "lastOpenFiles": [
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523120117.png",
+    "公务员/判断推理/逻辑判断/images",
+    "images",
+    "公务员/判断推理/逻辑判断/组合排列.md",
+    "README.md",
+    "公务员/判断推理/逻辑判断/1.md",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260523111731.png",
     "测试/1.md",
     "测试/images/Pasted image 20260523115320.png",
     "测试/images",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523115020.png",
-    "公务员/判断推理/逻辑判断/1.md",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523114828.png",
-    "公务员/判断推理/逻辑判断/组合排列.md",
     "Pasted image 20260523113912.png",
     "测试",
     "公务员/判断推理/逻辑判断/images/组合排列/Pasted image 20260523112738.png",
@@ -215,9 +205,7 @@
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523113538.png",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523112738.png",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523112446.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523111731.png",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260523112428.png",
-    "公务员/判断推理/逻辑判断/images",
     "未命名.canvas",
     "公务员/判断推理/逻辑判断.md",
     "公务员/判断推理/逻辑判断",
@@ -229,10 +217,8 @@
     "公务员/言语/片段阅读/中心理解/1.转折.md",
     "1.mind.md",
     "随笔/感想/重启人生.md",
-    "1.mind",
     "未命名 1.canvas",
     "随笔/生活方式/资金分配.md",
-    "README.md",
     "随笔/修身/成功学 1.md",
     "随笔/感想/终日思不如须臾实践 (1).md"
   ]
