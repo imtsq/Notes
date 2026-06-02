@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公务员/判断推理/逻辑判断/3材料题.md",
+                "file": "公务员/资料分析/计算技巧/2.多数加减.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3材料题"
+              "title": "2.多数加减"
             },
             "group": "c0ed3291a14c5c46"
           }
@@ -36,13 +36,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公务员/判断推理/逻辑判断/3材料题.md",
+                "file": "公务员/资料分析/计算技巧/2.多数加减.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3材料题 的大纲"
+              "title": "2.多数加减 的大纲"
             },
             "group": "c0ed3291a14c5c46"
           }
@@ -208,27 +208,37 @@
       "bases:新建数据库": false
     }
   },
-  "active": "45f2e6bd29d8da76",
+  "active": "76591de5494c80bd",
   "lastOpenFiles": [
-    "公务员/判断推理/逻辑判断/1.5翻译易错.md",
-    "公务员/判断推理/逻辑判断/2组合排列.md",
+    "公务员/资料分析/资料分析.xmind",
+    "公务员/资料分析/计算技巧/4. 乘法快速算.md",
+    "公务员/资料分析/计算技巧/1.截位直除.md",
+    "公务员/资料分析/计算技巧/3分数比较.md",
+    "公务员/资料分析/计算技巧/2.多数加减.md",
+    "公务员/资料分析/计算技巧",
+    "公务员/判断推理/逻辑判断/4 逻辑论证.md",
+    "公务员/资料分析",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260531190806.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260531190804.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260531112606.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260530213440.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260530211417.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260530211150.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260530210610.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260530210540.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260530205848.png",
     "公务员/判断推理/逻辑判断/3材料题.md",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260525174039.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260525164904.png",
+    "公务员/判断推理/逻辑判断/4逻辑论证",
+    "公务员/判断推理/逻辑判断/4. 削弱论证.md",
+    "公务员/判断推理/逻辑判断/2组合排列.md",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260529123941.png",
+    "公务员/判断推理/逻辑判断/1.5翻译易错.md",
     "公务员/考公考的是什么？.md",
     "随笔/感想/竞技游戏背后的逻辑.md",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260525121106.png",
     "公务员/判断推理/逻辑判断/1. 翻译推理.md",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260524193731.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260524175627.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260524154230.png",
     "随笔/感想/重启人生.md",
     "公务员/判断推理/逻辑判断.xmind",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523215353.png",
     "images/Pasted image 20260523194311.png.md",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523222500.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523194038.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260523184803.png",
     "公务员/判断推理/逻辑判断/未命名.canvas",
     "images",
     "事业编/法律/总书记.md",
@@ -243,17 +253,11 @@
     "测试/1.md",
     "测试/images",
     "测试",
-    "公务员/判断推理/images",
     "未命名.canvas",
     "公务员/判断推理/逻辑判断.md",
-    "公务员/判断推理/逻辑判断",
     "公务员/数量/1.倍数特性.md",
-    "快速上传.bat - 快捷方式.lnk",
     "公务员/言语/片段阅读/中心理解/1.转折.md",
     "1.mind.md",
-    "未命名 1.canvas",
-    "随笔/生活方式/资金分配.md",
-    "随笔/修身/成功学 1.md",
-    "随笔/感想/终日思不如须臾实践 (1).md"
+    "未命名 1.canvas"
   ]
 }
