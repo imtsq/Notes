@@ -14,14 +14,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公务员/资料分析/计算技巧/2.多数加减.md",
+                "file": "公务员/判断推理/逻辑判断/4 逻辑论证.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.多数加减"
+              "title": "4 逻辑论证"
             },
             "group": "c0ed3291a14c5c46"
+          },
+          {
+            "id": "8a07d7e71e68129e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公务员/判断推理/逻辑判断/4 逻辑论证.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 逻辑论证"
+            }
           }
         ]
       },
@@ -36,13 +50,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公务员/资料分析/计算技巧/2.多数加减.md",
+                "file": "公务员/判断推理/逻辑判断/4 逻辑论证.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.多数加减 的大纲"
+              "title": "4 逻辑论证 的大纲"
             },
             "group": "c0ed3291a14c5c46"
           }
@@ -205,18 +219,31 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "76591de5494c80bd",
+  "active": "45f2e6bd29d8da76",
   "lastOpenFiles": [
-    "公务员/资料分析/资料分析.xmind",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260604180932.png",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260604180919.png",
+    "Templates/粉色.md",
+    "Templates/清除.md",
+    "公务员/判断推理/逻辑判断/4 逻辑论证.md",
+    "公务员/判断推理/逻辑判断/4.2因果类否论点.md",
+    "公务员/判断推理/逻辑判断/images/Pasted image 20260603133854.png",
+    "公务员/资料分析/背诵.md",
+    "Templates/绿色.md",
+    "Templates/红色.md",
+    "Templates.md",
+    "Templates",
+    "公务员/判断推理/图推/判断推理 +精讲精练1.pdf",
     "公务员/资料分析/计算技巧/4. 乘法快速算.md",
+    "公务员/资料分析/计算技巧/2.多数加减.md",
+    "公务员/资料分析/资料分析.xmind",
     "公务员/资料分析/计算技巧/1.截位直除.md",
     "公务员/资料分析/计算技巧/3分数比较.md",
-    "公务员/资料分析/计算技巧/2.多数加减.md",
     "公务员/资料分析/计算技巧",
-    "公务员/判断推理/逻辑判断/4 逻辑论证.md",
     "公务员/资料分析",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260531190806.png",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260531190804.png",
@@ -226,12 +253,10 @@
     "公务员/判断推理/逻辑判断/images/Pasted image 20260530211150.png",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260530210610.png",
     "公务员/判断推理/逻辑判断/images/Pasted image 20260530210540.png",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260530205848.png",
     "公务员/判断推理/逻辑判断/3材料题.md",
     "公务员/判断推理/逻辑判断/4逻辑论证",
     "公务员/判断推理/逻辑判断/4. 削弱论证.md",
     "公务员/判断推理/逻辑判断/2组合排列.md",
-    "公务员/判断推理/逻辑判断/images/Pasted image 20260529123941.png",
     "公务员/判断推理/逻辑判断/1.5翻译易错.md",
     "公务员/考公考的是什么？.md",
     "随笔/感想/竞技游戏背后的逻辑.md",
@@ -247,17 +272,7 @@
     "文档名.md",
     "公务员/判断推理/逻辑判断/images/组合排列",
     "公务员/判断推理/逻辑判断/录音.m4a",
-    "公务员/判断推理/逻辑判断/images",
-    "README.md",
-    "公务员/判断推理/逻辑判断/1.md",
-    "测试/1.md",
-    "测试/images",
-    "测试",
     "未命名.canvas",
-    "公务员/判断推理/逻辑判断.md",
-    "公务员/数量/1.倍数特性.md",
-    "公务员/言语/片段阅读/中心理解/1.转折.md",
-    "1.mind.md",
     "未命名 1.canvas"
   ]
 }
