@@ -9,46 +9,20 @@
         "dimension": 79.96768982229402,
         "children": [
           {
-            "id": "5c982d4abe910dea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公务员/言语/1.片段阅读/中心理解/抓重点---关联词/2. 因果.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. 因果"
-            },
-            "group": "6e02723c5864bb18"
-          },
-          {
-            "id": "4ceab25d074cc045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公务员/言语/1.片段阅读/中心理解/抓重点---关联词/3.对策-必要条件.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.对策-必要条件"
-            }
-          },
-          {
             "id": "e7e34f0b561409ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "公务员/言语/3.逻辑填空/积累.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "积累"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7d0a18895c8f4535",
@@ -61,15 +35,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公务员/言语/1.片段阅读/中心理解/抓重点---关联词/2. 因果.md",
+                "file": "公务员/言语/3.逻辑填空/积累.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2. 因果 的大纲"
-            },
-            "group": "6e02723c5864bb18"
+              "title": "积累 的大纲"
+            }
           }
         ]
       }
@@ -236,8 +209,19 @@
   },
   "active": "e7e34f0b561409ac",
   "lastOpenFiles": [
-    "公务员/言语/1.片段阅读/中心理解/抓重点---关联词/3.对策-必要条件.md",
+    "公务员/言语/3.逻辑填空/前言.md",
     "公务员/言语/1.片段阅读/中心理解/分述句确定非重点---排除法.md",
+    "公务员/言语/3.逻辑填空/images/Pasted image 20260619211245.png",
+    "公务员/言语/3.逻辑填空/积累.md",
+    "公务员/言语/3.逻辑填空/images/Pasted image 20260619195954.png",
+    "公务员/言语/3.逻辑填空/images/Pasted image 20260617191211.png",
+    "公务员/言语/3.逻辑填空/images/Pasted image 20260617160113.png",
+    "公务员/言语/3.逻辑填空/images/Pasted image 20260617151414.png",
+    "公务员/言语/3.逻辑填空/images/Pasted image 20260617123147.png",
+    "公务员/言语/3.逻辑填空/images",
+    "随笔/感想/论阶级固化后带来的影响.md",
+    "随笔/感想/如何.md",
+    "公务员/言语/1.片段阅读/中心理解/抓重点---关联词/3.对策-必要条件.md",
     "公务员/言语/1.片段阅读/中心理解/抓重点---关联词/4. 并列.md",
     "公务员/言语/1.片段阅读/中心理解/README.md",
     "公务员/政治",
@@ -257,30 +241,19 @@
     "公务员/言语/1.片段阅读/中心理解/images/Pasted image 20260612103519.png",
     "公务员/言语/1.片段阅读/中心理解/images/Pasted image 20260612023657.png",
     "公务员/言语/1.片段阅读/中心理解/images/Pasted image 20260611235455.png",
-    "公务员/言语/1.片段阅读/中心理解/images/Pasted image 20260611235337.png",
     "公务员/言语/1.片段阅读/中心理解/引入话题.md",
-    "公务员/言语/1.片段阅读/中心理解/images/Pasted image 20260611234432.png",
     "公务员/数量/最优解问题--统筹规划.md",
     "公务员/数量/三、经济类型/1. 经济利润.md",
-    "公务员/数量/三、经济类型/images/Pasted image 20260611231245.png",
     "公务员/数量/三、经济类型/images",
     "公务员/数量/二、工程问题/3. 给具体单位型.md",
     "公务员/数量/三、经济类型.md",
     "公务员/数量/三、经济类型",
-    "公务员/数量/二、工程问题/images/Pasted image 20260611230958.png",
-    "公务员/数量/二、工程问题/images/Pasted image 20260611221941.png",
     "公务员/数量/二、工程问题/2. 给效率比例型.md",
-    "公务员/数量/二、工程问题/images/Pasted image 20260611220822.png",
-    "公务员/数量/二、工程问题/1.给完工时间型.md",
     "公务员/数量/images",
     "公务员/数量/二、工程问题/images",
-    "公务员/数量/二、工程问题/0.前言.md",
-    "公务员/数量/一、和差倍比/3. 设方程.md",
     "公务员/数量/二、工程问题",
-    "公务员/数量/一、和差倍比/2.赋值法.md",
     "公务员/数量/一、和差倍比/images",
     "公务员/数量/~$数量.docx",
-    "公务员/数量/pdf/数量关系 +精讲精练1.pdf",
     "公务员/判断推理/逻辑判断/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
