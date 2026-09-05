@@ -47,7 +47,7 @@ git push -u origin main
 
 # 2. 之后修改笔记提交
 
-```
+```bat
 # 可以写个bat文件保存到里面每次提交运行下就行
 git add .
 git commit -m "提交信息"
