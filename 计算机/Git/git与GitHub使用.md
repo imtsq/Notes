@@ -27,7 +27,8 @@ git commit -m "首次提交"
 ssh-keygen -t rsa -b 4096 -C "你的邮箱"
 # 查看ssh并复制到GitHub中的ssh（在设置里面找）
 cat ~/.ssh/id_rsa.pub
-# 测试连接
+# 测试连接s'b'f
+ssh -T git@github.com
 ```
 
 
