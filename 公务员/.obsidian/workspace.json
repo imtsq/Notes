@@ -6,6 +6,7 @@
       {
         "id": "5e25a0e56c6ab603",
         "type": "tabs",
+        "dimension": 84.52012383900929,
         "children": [
           {
             "id": "f63d7d7baaeff1eb",
@@ -19,7 +20,31 @@
               },
               "icon": "lucide-file",
               "title": "积累"
-            }
+            },
+            "group": "4c2a630e74225f3c"
+          }
+        ]
+      },
+      {
+        "id": "c30a22078cbfd07b",
+        "type": "tabs",
+        "dimension": 15.479876160990713,
+        "children": [
+          {
+            "id": "21e167246c3e476e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "言语/积累.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "积累 的大纲"
+            },
+            "group": "4c2a630e74225f3c"
           }
         ]
       }
@@ -83,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.90000915527344
+    "width": 200
   },
   "right": {
     "id": "01a5bf0b9ea6013e",
@@ -185,7 +210,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f63d7d7baaeff1eb",
+  "active": "21e167246c3e476e",
   "lastOpenFiles": [
     "积累.md",
     "常识/地理常识.md",
